@@ -3,9 +3,9 @@
 /*Bum, bum, bum.....
 Actually solve things!!!!!
 Okay, few key points:
-1) I'm gonna spend a month camping with Daddy.
+1) I'm gonna spend a month camping with my dad.
 Oh no.
-2) Daddy gives me a backpack which can hold 30 kg.
+2) My dad gives me a backpack which can hold 30 kg.
 3) I have some items, each labelled with their weights
 and their survival points.
 4) I need to maximize the survival points I can carry.
